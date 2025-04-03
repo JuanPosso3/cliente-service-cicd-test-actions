@@ -33,6 +33,7 @@ import java.util.stream.Collectors;
 public class ClienteRestController {
 
 	// Servicio de cliente inyectado
+	//comentario prueba
 	private final IClienteService clienteService;
 
 	// Servicio de subida de archivos inyectado
