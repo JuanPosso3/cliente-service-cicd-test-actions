@@ -34,6 +34,7 @@ public class ClienteRestController {
 
 	// Servicio de cliente inyectado
 	//comentario prueba
+	//comentario prueba 2
 	private final IClienteService clienteService;
 
 	// Servicio de subida de archivos inyectado
